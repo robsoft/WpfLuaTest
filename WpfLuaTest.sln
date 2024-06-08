@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfLuaTest", "WpfLuaTest.csproj", "{4F465AAC-3BF4-4F94-A5C4-7B8E77A02BD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F465AAC-3BF4-4F94-A5C4-7B8E77A02BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F465AAC-3BF4-4F94-A5C4-7B8E77A02BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F465AAC-3BF4-4F94-A5C4-7B8E77A02BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F465AAC-3BF4-4F94-A5C4-7B8E77A02BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B74116E-E075-4EE0-B421-F983680EDF7B}
+	EndGlobalSection
+EndGlobal
